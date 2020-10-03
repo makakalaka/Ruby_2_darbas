@@ -1,0 +1,13 @@
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.exe
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.deps.json
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.runtimeconfig.json
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.runtimeconfig.dev.json
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.dll
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\bin\Debug\netcoreapp3.1\FillUnknown.pdb
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.csprojAssemblyReference.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.AssemblyInfoInputs.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.AssemblyInfo.cs
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.csproj.CoreCompileInputs.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.dll
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.pdb
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\FillUnknown\FillUnknown\obj\Debug\netcoreapp3.1\FillUnknown.genruntimeconfig.cache
